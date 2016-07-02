@@ -1,0 +1,4 @@
+D:\EpamSummer\Day 01\Task2_NOD\bin\Debug\Task2_GCD.dll
+D:\EpamSummer\Day 01\Task2_NOD\bin\Debug\Task2_GCD.pdb
+D:\EpamSummer\Day 01\Task2_NOD\obj\Debug\Task2_GCD.dll
+D:\EpamSummer\Day 01\Task2_NOD\obj\Debug\Task2_GCD.pdb
