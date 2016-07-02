@@ -1,9 +1,0 @@
-D:\EpamSummer\Day 01\Task2_NOD\bin\Debug\Task2_GCD.dll
-D:\EpamSummer\Day 01\Task2_NOD\bin\Debug\Task2_GCD.pdb
-D:\EpamSummer\Day 01\Task2_NOD\obj\Debug\Task2_GCD.dll
-D:\EpamSummer\Day 01\Task2_NOD\obj\Debug\Task2_GCD.pdb
-D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Task2_NOD\bin\Debug\Task2_GCD.dll
-D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Task2_NOD\bin\Debug\Task2_GCD.pdb
-D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Task2_NOD\obj\Debug\Task2_GCD.csprojResolveAssemblyReference.cache
-D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Task2_NOD\obj\Debug\Task2_GCD.dll
-D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Task2_NOD\obj\Debug\Task2_GCD.pdb

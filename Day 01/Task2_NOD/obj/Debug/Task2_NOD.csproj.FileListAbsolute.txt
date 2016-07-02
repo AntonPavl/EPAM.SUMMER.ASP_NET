@@ -1,5 +1,0 @@
-D:\EpamSummer\Day 01\Task2_NOD\obj\Debug\Task2_NOD.csprojResolveAssemblyReference.cache
-D:\EpamSummer\Day 01\Task2_NOD\bin\Debug\Task2_NOD.dll
-D:\EpamSummer\Day 01\Task2_NOD\bin\Debug\Task2_NOD.pdb
-D:\EpamSummer\Day 01\Task2_NOD\obj\Debug\Task2_NOD.dll
-D:\EpamSummer\Day 01\Task2_NOD\obj\Debug\Task2_NOD.pdb
