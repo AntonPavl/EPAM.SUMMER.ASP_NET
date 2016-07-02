@@ -11,7 +11,7 @@ namespace Tasks_View
 {
     class Program
     {
-        //git_test Why VioleGreis???
+        //AntonPavl?
 
         /// <summary>
         /// Compares Math.Pow and NewtonSqrt.Sqrt results
