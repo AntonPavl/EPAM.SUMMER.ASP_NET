@@ -10,9 +10,7 @@ using Task2_GCD;
 namespace Tasks_View
 {
     class Program
-    {
-        //AntonPavl?
-
+    {  
         /// <summary>
         /// Compares Math.Pow and NewtonSqrt.Sqrt results
         /// </summary>
@@ -26,6 +24,8 @@ namespace Tasks_View
             Console.WriteLine($"Newton   = \t {NewtonSqrt.Sqrt(num,n,eps)}");
             Console.WriteLine("--------------------------------------------------- \n");
         }
+
+        //if Math.Pow shows NaN it does not mean that the GCD is not exist.
         static void Task1View()
         {
             Random rand = new Random();
@@ -36,18 +36,20 @@ namespace Tasks_View
                 CompareSqrt((rand.NextDouble()-0.5) * 100, rand.Next(2, 10), 0.00000001);
             }
         }
+
         static void Task2View()
         {
-            Console.WriteLine(NodMath.EwclideGcd(10,4));
-            Console.WriteLine(NodMath.EwclideGcd(28,14,8,6,4));
-            Console.WriteLine(NodMath.EwclideGcd(9,3,1,0));
-            Console.WriteLine(NodMath.EwclideGcd(0, 4));
+            Console.WriteLine(GcdMath.EwclideGcd(10,4));
+            Console.WriteLine(GcdMath.EwclideGcd(28,14,8,6,4));
+            Console.WriteLine(GcdMath.EwclideGcd(9,3,1,0));
+            Console.WriteLine(GcdMath.EwclideGcd(0, 4));
 
-            Console.WriteLine(NodMath.SteineGcd(7,7));
-            Console.WriteLine(NodMath.SteineGcd(28,14,7));
-            Console.WriteLine(NodMath.SteineGcd(64,32,16,8,4,2));
-            Console.WriteLine(NodMath.SteineGcd(0,0));
+            Console.WriteLine(GcdMath.SteineGcd(7,7));
+            Console.WriteLine(GcdMath.SteineGcd(28,14,7));
+            Console.WriteLine(GcdMath.SteineGcd(64,32,16,8,4,2));
+            Console.WriteLine(GcdMath.SteineGcd(0,0));
         }
+
         static void Main(string[] args)
         {
             Task1View();

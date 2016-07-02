@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task2_GCD
 {
-    public class NodMath
+    public class GcdMath
     {
         /// <summary>
         /// computes the greatest common divisor with Ewklide's algorithm

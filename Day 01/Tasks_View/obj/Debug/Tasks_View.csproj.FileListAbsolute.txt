@@ -11,3 +11,10 @@ D:\EpamSummer\Day 01\Tasks_View\bin\Debug\Task2_GCD.pdb
 D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\bin\Debug\Tasks_View.exe.config
 D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\obj\Debug\Tasks_View.exe
 D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\obj\Debug\Tasks_View.pdb
+D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\bin\Debug\Tasks_View.exe
+D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\bin\Debug\Tasks_View.pdb
+D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\bin\Debug\Task1_Newton.dll
+D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\bin\Debug\Task2_GCD.dll
+D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\bin\Debug\Task1_Newton.pdb
+D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\bin\Debug\Task2_GCD.pdb
+D:\EpamSummer\EPAM.SUMMER.ASP_NET\Day 01\Tasks_View\obj\Debug\Tasks_View.csprojResolveAssemblyReference.cache
