@@ -39,15 +39,14 @@ namespace Tasks_View
 
         static void Task2View()
         {
-            Console.WriteLine(GcdMath.EwclideGcd(10,4));
-            Console.WriteLine(GcdMath.EwclideGcd(28,14,8,6,4));
-            Console.WriteLine(GcdMath.EwclideGcd(9,3,1,0));
-            Console.WriteLine(GcdMath.EwclideGcd(0, 4));
-
-            Console.WriteLine(GcdMath.SteineGcd(7,7));
-            Console.WriteLine(GcdMath.SteineGcd(28,14,7));
-            Console.WriteLine(GcdMath.SteineGcd(64,32,16,8,4,2));
-            Console.WriteLine(GcdMath.SteineGcd(0,0));
+            Console.WriteLine($"10,4 = {GcdMath.EwclideGcd(10,4)}");
+            Console.WriteLine($"28,14,8,6,4 = {GcdMath.EwclideGcd(28,14,8,6,4)}");
+            Console.WriteLine($"9,3,1,0 ={GcdMath.EwclideGcd(9,3,1,0)}");
+            Console.WriteLine($"0,4 ={GcdMath.EwclideGcd(0, 4)}");
+            Console.WriteLine($"7,7 = {GcdMath.SteineGcd(7,7)}");
+            Console.WriteLine($"28,14,7 = {GcdMath.SteineGcd(28,14,7)}");
+            Console.WriteLine($"64,32,16,8,4,2 = {GcdMath.SteineGcd(64,32,16,8,4,2)}");
+            Console.WriteLine($"0,0 {GcdMath.SteineGcd(0,0)}");
         }
 
         static void Main(string[] args)
