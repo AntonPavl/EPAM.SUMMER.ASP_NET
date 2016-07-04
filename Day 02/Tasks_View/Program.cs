@@ -35,6 +35,9 @@ namespace Tasks_View
                 //Range: DoubleNumber(0-100) SquareRoot(2-10) Epsilon = 0.00000001
                 CompareSqrt((rand.NextDouble()-0.5) * 100, rand.Next(2, 10), 0.00000001);
             }
+            double elapsedMs = 0;
+            NewtonSqrt.Sqrt(100, 12,out elapsedMs);
+            Console.WriteLine(elapsedMs);
         }
 
         static void Task2View()
@@ -46,7 +49,6 @@ namespace Tasks_View
             Console.WriteLine($"7,7 = {GcdMath.SteineGcd(7,7)}");
             Console.WriteLine($"28,14,7 = {GcdMath.SteineGcd(28,14,7)}");
             Console.WriteLine($"64,32,16,8,4,2 = {GcdMath.SteineGcd(64,32,16,8,4,2)}");
-            Console.WriteLine($"0,0 {GcdMath.SteineGcd(0,0)}");
         }
 
         static void Main(string[] args)
